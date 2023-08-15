@@ -17,7 +17,9 @@ pluginManagement {
             ?: System.getenv("GITHUB_PACKAGES_TOKEN")
         google()
         mavenCentral()
-        gradlePluginPortal()
+        maven {
+            url = uri("https://plugins.gradle.org/m2/")
+        }
         maven {
             url = uri("https://maven.pkg.github.com/DigitalInnovation/mns-conventions-plugin")
             credentials {
@@ -28,7 +30,6 @@ pluginManagement {
     }
 }
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
@@ -36,3 +37,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "conventions-test"
 include(":app")
+include(":feature:api")
+include(":feature:di")
+include(":feature:impl")
