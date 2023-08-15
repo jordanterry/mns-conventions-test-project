@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml:2:13-83
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml:2:13-83
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml:2:13-83
+	package
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml:2:13-83
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+	xmlns:android
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml:2:23-81
+uses-sdk
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml reason: use-sdk injection requested
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+	android:minSdkVersion
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
