@@ -3,6 +3,6 @@
 3    package="com.mns.feature" >
 4
 5    <uses-sdk android:minSdkVersion="23" />
-5-->/Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest3939389639883685390.xml
+5-->/Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/di/build/intermediates/tmp/ProcessLibraryManifest/release/tempAndroidManifest15393022653813522456.xml
 6
 7</manifest>

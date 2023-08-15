@@ -1,25 +1,25 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml:2:13-83
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml:2:13-83
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml:2:13-83
+ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml:2:13-83
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml:2:13-83
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml:2:13-83
 	package
-		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml:2:13-83
-		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml:2:13-83
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
 	xmlns:android
-		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml:2:23-81
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml:2:23-81
 uses-sdk
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml reason: use-sdk injection requested
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml reason: use-sdk injection requested
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
 	android:targetSdkVersion
-		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
 	android:minSdkVersion
-		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
-		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest3426147069753138501.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+		ADDED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
+		INJECTED from /Users/Jordan.Terry/AndroidStudioProjects/conventionstest/feature/api/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest7738345192070292700.xml
