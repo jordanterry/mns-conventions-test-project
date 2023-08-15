@@ -54,7 +54,7 @@ app:
         is_expand: false
       VARIANT: ''
 trigger_map:
-  - push_branch: main
+  - push_branch: develop
     workflow: run_tests
   - pull_request_source_branch: "*"
     workflow: run_tests
