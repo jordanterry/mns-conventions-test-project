@@ -11,9 +11,6 @@ workflows:
       lint and unit tests, build the project's APK file and save it.
     steps:
       - git-clone@8: {}
-      - install-missing-android-tools@3:
-          inputs:
-            - gradlew_path: "$PROJECT_LOCATION/gradlew"
       - android-unit-test@1:
           inputs:
             - project_location: "$PROJECT_LOCATION"
@@ -34,9 +31,6 @@ workflows:
     steps:
       - git-clone@8: {}
       - restore-gradle-cache@1: {}
-      - install-missing-android-tools@3:
-          inputs:
-            - gradlew_path: "$PROJECT_LOCATION/gradlew"
       - android-unit-test@1:
           inputs:
             - project_location: "$PROJECT_LOCATION"
